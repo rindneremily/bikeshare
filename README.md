@@ -1,6 +1,6 @@
 # bikeshare
 ## Overview
-![Link to dashboard](https://public.tableau.com/profile/emily5608#!/)
+[Link to dashboard](https://public.tableau.com/profile/emily5608#!/)
 
 This challenged us to use a new data analytics tool to create visualizations of the NYC Citibike data from 2019. The visualizations explain popular locations for bikers, genders, times and other data that can teach viewers.
 ## Results
